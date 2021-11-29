@@ -714,8 +714,9 @@ msgstr "Kategori"
 #. http://i.imgur.com/445XWLs.png
 msgctxt "settings"
 msgid "Center Alignment"
-msgstr "Vendosje Në Qendër"
-"Për faqen e përfundimeve përdoret vendosja në qendër (në vend se majtas)"
+msgstr ""
+"Vendosje Në QendërPër faqen e përfundimeve përdoret vendosja në qendër (në "
+"vend se majtas)"
 
 #. This is the description of a user setting -- Example image: https://i.imgur.com/yihFekW.png
 msgctxt "settings"
@@ -5194,6 +5195,10 @@ msgid ""
 msgstr ""
 "Vizitoni %sDuckDuckGo.com%s që nga tableti ose telefoni juaj dhe ndiqni "
 "udhëzimet e dhëna."
+
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
 
 #. This is the name of a user setting
 msgctxt "settings"

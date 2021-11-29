@@ -4996,6 +4996,10 @@ msgstr ""
 "Bezoek %sDuckDuckGo.com%s op je tablet of GSM en volg de voorgeschreven "
 "instructies."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

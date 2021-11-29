@@ -5040,6 +5040,10 @@ msgstr ""
 "Ymweld â %sDuckDuckGo.com%s arno eich tabled neu ffôn ac yna dilynwch y "
 "cyfarwyddiadau yno."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

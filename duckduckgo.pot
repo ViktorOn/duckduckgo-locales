@@ -6209,6 +6209,11 @@ msgid ""
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
+# smartling.placeholder_format=C
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

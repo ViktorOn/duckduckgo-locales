@@ -5027,6 +5027,10 @@ msgstr ""
 "Tadhail air %sDuckDuckGo.com%s air an tablaid no fòn agad is lean ris an "
 "stiùireadh ann."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

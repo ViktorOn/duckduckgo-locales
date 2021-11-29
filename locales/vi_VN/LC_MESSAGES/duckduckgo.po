@@ -5072,6 +5072,10 @@ msgstr ""
 "Mở %sDuckDuckGo.com%s trên máy tính bảng hoặc điện thoại của bạn và làm theo "
 "hướng dẫn."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

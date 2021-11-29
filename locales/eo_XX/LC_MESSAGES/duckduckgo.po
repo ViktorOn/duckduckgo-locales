@@ -5008,6 +5008,10 @@ msgstr ""
 "Vizitu %sDuckDuckGo.com%s per via tabulkomputilo aŭ poŝtelefono kaj sekvu la "
 "donitajn instrukciojn."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

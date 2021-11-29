@@ -4988,6 +4988,10 @@ msgstr ""
 "%sDuckDuckGo.com%s ନିଜର ଟ୍ୟାବଲେଟ କିମ୍ବା ଫୋନରେ ଯାଆନ୍ତୁ ଏବଂ ଦିଆଯାଇଥିବା ନିର୍ଦ୍ଦେଶାବଳୀ "
 "ଅନୁସରଣ କରନ୍ତୁ ।"
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

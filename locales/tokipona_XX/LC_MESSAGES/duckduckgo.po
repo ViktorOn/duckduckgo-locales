@@ -5011,6 +5011,10 @@ msgid ""
 "instructions."
 msgstr "o tawa %sDuckDuckGo.com%s kepeken e ilo sina li lukin e toki."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

@@ -5013,6 +5013,10 @@ msgid ""
 "instructions."
 msgstr ""
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

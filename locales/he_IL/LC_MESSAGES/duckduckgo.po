@@ -319,7 +319,8 @@ msgctxt "settings"
 msgid ""
 "Allows Cloud Save key to be stored locally on device (required to use Cloud "
 "Save)"
-msgstr "אפשר למתח השמירה להיות מאוחסן על מכשיר זה (נחוץ כדי להשתמש בשמירה בענן)"
+msgstr ""
+"אפשר למתח השמירה להיות מאוחסן על מכשיר זה (נחוץ כדי להשתמש בשמירה בענן)"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
@@ -434,7 +435,9 @@ msgstr "ארמנית"
 msgid ""
 "As per our privacy policy, we do not collect or share any personal "
 "information ourselves. All of this privacy protection happens on your device."
-msgstr "לפי תנאי הפרטיות שלנו, אנחנו לא אוספים או משתפים שום מידע אישי בעצמנו. כל הגנת הפרטיות הזו מתרחשת במכשירך"
+msgstr ""
+"לפי תנאי הפרטיות שלנו, אנחנו לא אוספים או משתפים שום מידע אישי בעצמנו. כל "
+"הגנת הפרטיות הזו מתרחשת במכשירך"
 
 #. The name of the Assamese language
 msgctxt "language_name"
@@ -637,7 +640,7 @@ msgstr "בולגרית"
 #. Click "Show Bookmarklet and Settings Data" - http://i.imgur.com/NKOWrRl.png
 #. Then - http://i.imgur.com/mo6wsE4.png
 msgctxt "settings"
-msgid "הגדרות"
+msgid ""
 "By default, settings are stored in non-personal browser cookies (in your "
 "browser). You can use anonymous Cloud Save to store your settings in a more "
 "permanent way (on a remote server in the cloud). No personally identifiable "
@@ -4970,6 +4973,10 @@ msgctxt "mobile promotion on desktop"
 msgid ""
 "Visit %sDuckDuckGo.com%s on your tablet or phone and follow the provided "
 "instructions."
+msgstr ""
+
+msgctxt "settings"
+msgid "Visited Checkmark"
 msgstr ""
 
 #. This is the name of a user setting

@@ -5042,6 +5042,10 @@ msgstr ""
 "Visite %sDuckDuckGo.com%s na súa tableta ou móbil e siga as instrucións "
 "indicadas."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

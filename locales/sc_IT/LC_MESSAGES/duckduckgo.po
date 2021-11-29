@@ -5137,6 +5137,10 @@ msgstr ""
 "Bìsita %sDuckDuckGo.com%s dae sa tauledda o su telèfonu tuo e sighi is "
 "istrutziones."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

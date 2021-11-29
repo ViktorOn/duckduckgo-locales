@@ -5090,6 +5090,10 @@ msgstr ""
 "‫با تبلت یا گوشی خود به سایت %sDuckDuckGo.com%s بروید و مطابق دستورالعملهای "
 "داده شده عمل کنید.‬"
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

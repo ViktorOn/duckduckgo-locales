@@ -5023,6 +5023,10 @@ msgstr ""
 "Visita %sDuckDuckGo.com%s en tu table o teléfono y sigue las instrucciones "
 "proveídas."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

@@ -4953,6 +4953,10 @@ msgid ""
 "instructions."
 msgstr "%sDuckDuckGo.com%s ని మీ టాబ్లెట్ లేదా ఫోన్ పై సందర్శించండి మరియు ఈ ఉత్తరవులనుపాటించండి."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

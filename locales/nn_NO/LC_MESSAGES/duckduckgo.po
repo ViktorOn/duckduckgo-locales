@@ -4988,6 +4988,10 @@ msgstr ""
 "Besøk %sDuckDuckGo.com%s på din tablet eller telefon, og følg instruksjonene "
 "som følger med."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

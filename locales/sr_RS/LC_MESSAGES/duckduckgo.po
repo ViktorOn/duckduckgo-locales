@@ -5014,6 +5014,10 @@ msgstr ""
 "Посети %sDuckDuckGo.com%s на вашем таблету  или мобилном уређају и пратите "
 "предложена упуства."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

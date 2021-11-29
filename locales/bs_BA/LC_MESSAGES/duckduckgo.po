@@ -716,8 +716,9 @@ msgstr "Kategorija"
 #. http://i.imgur.com/445XWLs.png
 msgctxt "settings"
 msgid "Center Alignment"
-msgstr "Centrirano poravnanje"
-"Poravnava stranicu s rezultatima po sredini (umjesto lijevog poravnanja)"
+msgstr ""
+"Centrirano poravnanjePoravnava stranicu s rezultatima po sredini (umjesto "
+"lijevog poravnanja)"
 
 #. This is the description of a user setting -- Example image: https://i.imgur.com/yihFekW.png
 msgctxt "settings"
@@ -5093,6 +5094,10 @@ msgid ""
 msgstr ""
 "Posjetite %sDuckDuckGo.com%s na svom tabletu ili telefonu i slijedite "
 "uputstva."
+
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
 
 #. This is the name of a user setting
 msgctxt "settings"

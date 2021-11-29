@@ -5029,6 +5029,10 @@ msgstr ""
 "Consultez %sDuckDuckGo.com%s sur votre tablette ou votre téléphone et suivez "
 "les instructions."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"

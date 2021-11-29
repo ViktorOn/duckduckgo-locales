@@ -5004,6 +5004,10 @@ msgstr ""
 "Ddu ɣer %sDuckDuckGo.com%s deg tfelwit-ik n uselkem neɣ tiliɣri-ik daɣen "
 "ḍfeṛ iwellihen i d-ittunefken."
 
+msgctxt "settings"
+msgid "Visited Checkmark"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Visited Title Color"
